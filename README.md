@@ -43,6 +43,6 @@ Short description of main tags of JavaDoc in AndroidStudio
 
 в документации выглядит так :
 
-<img src ="https://user-images.githubusercontent.com/11744426/32833671-9df12672-ca10-11e7-974a-21f96eb3be25.jpg" width ="300" height = "300" />
+<img src ="https://user-images.githubusercontent.com/11744426/32833671-9df12672-ca10-11e7-974a-21f96eb3be25.jpg" width ="400" height = "300" />
 
 
