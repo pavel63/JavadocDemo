@@ -5,12 +5,15 @@ Short description of main tags of JavaDoc in AndroidStudio
 
 Для начала устанавливаем плагин , если еще не установлен
 Идем AndroidStudio - Preferences - Plugins и проверяем наличие :
-![plug](https://user-images.githubusercontent.com/11744426/32833657-95eacb90-ca10-11e7-964c-229c01ba55b5.jpg)
+<img src="https://user-images.githubusercontent.com/11744426/32833657-95eacb90-ca10-11e7-964c-229c01ba55b5.jpg" width="500" height="400" />
+
 Если нет ,то в том же поле вводим javadoc и поиск, выбираем с наибольшим количеством звездочек ,устанавливаем и перезагружаем студию <br>
 Чтобы сгенерить html файл с документацией, жмем Tools -> Generate JavaDoc .
 В появившемся окошке устанавливаем настройки - для каких файлов :
 
 ![dp](https://user-images.githubusercontent.com/11744426/32833661-98dc9a72-ca10-11e7-97d1-f70ad902da47.jpg)
+<img src="![dp](https://user-images.githubusercontent.com/11744426/32833661-98dc9a72-ca10-11e7-97d1-f70ad902da47.jpg)" width="500" height="400" />
+
 генерить документацию ,для кода с каким уровнем приватности это делать ,куда генерить файлы и тд. <br>
 К вопросу куда генерить - лучше под них создать отдельную папку ,тк файлов может быть до нескольких десятков и собирать их потом между остальными файлами утомительно. <br>
 На выходе получаем html файлы. Помимо собственно описания классов ,наличествуют еще файлы ,обобщаю щие их -например, файл со списком устаревших (deprecated) ,общее описание  ( overwiew-tree ) , описание как эта документация составляется ( help -doc) и прочее . Также файлы генерятся в ту же структуру ,что и проект -то есть если у нас есть папки и пакеты ,то документация по классам будет  сгенерена в ту же структуру пакетов <br>
@@ -36,8 +39,11 @@ Short description of main tags of JavaDoc in AndroidStudio
 @literal - воспринимает написанное просто как буквально текст и не выделяет теги даже если помечены знаком тега @ .
 
 В итоге закомменченный таким образом метод :
-![d2](https://user-images.githubusercontent.com/11744426/32833673-a078e4ac-ca10-11e7-8279-090ae4a1d667.jpg)
+
+<img src ="https://user-images.githubusercontent.com/11744426/32833673-a078e4ac-ca10-11e7-8279-090ae4a1d667.jpg" width ="300" height = "200" />
 
 в документации выглядит так :
-![dd](https://user-images.githubusercontent.com/11744426/32833671-9df12672-ca10-11e7-974a-21f96eb3be25.jpg)
+
+<img src ="https://user-images.githubusercontent.com/11744426/32833671-9df12672-ca10-11e7-974a-21f96eb3be25.jpg" width ="300" height = "300" />
+
 
