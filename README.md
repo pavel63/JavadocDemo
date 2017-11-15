@@ -35,8 +35,8 @@ Short description of main tags of JavaDoc in AndroidStudio
 @literal - воспринимает написанное просто как буквально текст и не выделяет теги даже если помечены знаком тега @ .
 
 В итоге закомменченный таким образом метод :
-
-![dd](https://user-images.githubusercontent.com/11744426/32833671-9df12672-ca10-11e7-974a-21f96eb3be25.jpg)
-в документации выглядит так :
 ![d2](https://user-images.githubusercontent.com/11744426/32833673-a078e4ac-ca10-11e7-8279-090ae4a1d667.jpg)
+
+в документации выглядит так :
+![dd](https://user-images.githubusercontent.com/11744426/32833671-9df12672-ca10-11e7-974a-21f96eb3be25.jpg)
 
