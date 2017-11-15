@@ -11,8 +11,7 @@ Short description of main tags of JavaDoc in AndroidStudio
 Чтобы сгенерить html файл с документацией, жмем Tools -> Generate JavaDoc .
 В появившемся окошке устанавливаем настройки - для каких файлов :
 
-![dp](https://user-images.githubusercontent.com/11744426/32833661-98dc9a72-ca10-11e7-97d1-f70ad902da47.jpg)
-<img src="![dp](https://user-images.githubusercontent.com/11744426/32833661-98dc9a72-ca10-11e7-97d1-f70ad902da47.jpg)" width="500" height="400" />
+<img src="https://user-images.githubusercontent.com/11744426/32833661-98dc9a72-ca10-11e7-97d1-f70ad902da47.jpg" width="500" height="400" />
 
 генерить документацию ,для кода с каким уровнем приватности это делать ,куда генерить файлы и тд. <br>
 К вопросу куда генерить - лучше под них создать отдельную папку ,тк файлов может быть до нескольких десятков и собирать их потом между остальными файлами утомительно. <br>
